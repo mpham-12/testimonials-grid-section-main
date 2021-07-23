@@ -1,0 +1,131 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: hsl(210, 46%, 95%);
+    margin: 60px 30px;
+}
+.verified {
+    color: hsl(0, 0%, 81%);
+}
+p {
+   color: hsl(0, 0%, 81%);
+}
+.daniel {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: hsl(263, 55%, 52%);
+    color: white;
+padding: 15px 30px;
+margin-bottom: 25px;
+background-image: url(images/bg-pattern-quotation.svg);
+background-repeat: no-repeat;
+background-position: 180px 10px;
+}
+.h2-daniel {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+p {
+    font-size: 13px;
+}
+img {
+    border: 2px solid;
+    border-radius: 50%;
+    height: auto;
+    width: 40px;
+    position: relative;
+    top: 15px;
+}
+.name-daniel {
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+
+.jonathan {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: hsl(217, 19%, 35%);
+    color: white;
+padding: 15px 30px;
+margin-bottom: 25px;
+
+}
+.h2-jonathan {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.name-jonathan {
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+
+.jeanette {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: white;
+    color: hsl(217, 19%, 35%);
+padding: 15px 30px;
+margin-bottom: 25px;
+
+}
+.h2-jeanette {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.name-jeanette {
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+.patrick {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: hsl(219, 29%, 14%);
+    color: white;
+padding: 15px 30px;
+margin-bottom: 25px;
+}
+.h2-patrick {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.name-patrick {
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+.kira {
+    border: 1px solid transparent;
+    border-radius: 10px;
+    background-color: white;
+    color: hsl(217, 19%, 35%);
+padding: 15px 30px;
+margin-bottom: 25px;
+
+}
+.h2-kira {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 0px;
+}
+.name-kira {
+    font-size: 13px;
+    position: relative;
+    bottom: 25px;
+    left: 60px;
+}
+
+
